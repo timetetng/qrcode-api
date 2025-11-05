@@ -2,7 +2,7 @@
 
 A lightweight QR code generation API service designed for Vercel deployment.
 
-## 🚀 One-Click Deploy
+## 🚀 Deploy with Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftimetetng%2Fqrcode-api)
 

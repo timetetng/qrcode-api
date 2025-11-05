@@ -2,6 +2,10 @@
 
 A lightweight QR code generation API service designed for Vercel deployment.
 
+## 🚀 One-Click Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftimetetng%2Fqrcode-api)
+
 ## Features
 
 - 🚀 **Fast & Simple**: Generate QR codes instantly via REST API
@@ -18,9 +22,10 @@ A lightweight QR code generation API service designed for Vercel deployment.
 
 ### Deploy to Vercel
 
-1. Fork this repository
-2. Import the project to Vercel
-3. Deploy - that's it! No additional configuration needed
+1. Click the **Deploy with Vercel** button above
+2. Fork this repository
+3. Import the project to Vercel
+4. Deploy - that's it! No additional configuration needed
 
 Your API will be available at: `https://your-project.vercel.app/api/generate`
 
